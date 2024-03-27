@@ -12,6 +12,9 @@ No installation is required. If you want to see the project live you click the f
 
 You cannot interact with the project yet, since it's just the website's layout.
 
+![The homepage of the Horiseon project](assets/images/homepage.png)
+![The content of the Horiseon homepage](assets/images/homepageContent.png)
+
 ## License
 
 This project uses the MIT license.
